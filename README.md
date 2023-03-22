@@ -28,4 +28,4 @@
 
 ## Link xem trực tiếp trên web:
 
-https://lequocthinh-genesis.github.io/Calculator-HTML-CSS/
+https://lequocthinh-genesis.github.io/Calculator/
